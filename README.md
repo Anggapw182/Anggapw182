@@ -24,7 +24,7 @@
 
 Hi, I'm Angga Putra, but you can call me **Angga**. 
 
-I'm a Full-Stack Developer from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="24px"> , and **3 years of coding** 🧐. 
+I'm a Full-Stack Developer from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="24px"> , and **5 years of coding** 🧐. 
 
 **an aspiring musician** 🎸. 
 
