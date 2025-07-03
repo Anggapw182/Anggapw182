@@ -28,7 +28,7 @@ I'm a Full-Stack Developer from <img src="https://github.githubassets.com/images
 
 **an aspiring musician** 🎸. 
 
-* 🔭 Currently I work at Bank BTN as a BackEnd Developer
+* 🔭 Currently I work at Mandiri Inhealth as a Fullstack Developer
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
 * ⚡ Fun fact: sharing is magic 🐰
